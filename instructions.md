@@ -1,4 +1,4 @@
-### Instructions on how to download **source code**.
+# Instructions on how to download **source code**.
 ### Note: this app is only for Windows for now, Mac version might be released.
 
 + Open **[https://github.com/ToshanChowdhury/CubeText.git]**
